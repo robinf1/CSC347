@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mfp2tests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- EX01 - map *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  null did not equal List() (fp2tests.scala:15)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- EX02 - filter *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  null did not equal List() (fp2tests.scala:20)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- EX03 - append *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  null did not equal List() (fp2tests.scala:28)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- EX04 - flatten *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  null did not equal List() (fp2tests.scala:35)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- EX05 - foldLeft *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  "@[]" did not equal "@[[1][2][3]]" (fp2tests.scala:44)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- EX06 - foldRight *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  "@[]" did not equal "@[[3][2][1]]" (fp2tests.scala:50)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- EX07 - joinTerminateRight *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  null did not equal "" (fp2tests.scala:54)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- EX08 - joinTerminateLeft *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  null did not equal "" (fp2tests.scala:60)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- EX09 - firstNumGreaterThan *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  -1 did not equal 6 (fp2tests.scala:66)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- EX10 - firstIndexNumGreaterThan *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  -1 did not equal 1 (fp2tests.scala:72)[0m[0m
